@@ -65,11 +65,17 @@ Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy
 **Description:**
 Developed and optimized an LSTM-based model for multivariate time-series forecasting using environmental data. The project involved sequential data preprocessing, stacked LSTM architecture design, regularization, learning-rate optimization, and ensemble techniques such as model averaging and bagging. Model performance was evaluated and compared using RMSE and MAE.
 
-### Project 2
-**Focus:**
-**Technologies:**
-**Description:**
+### Project 2 - Demographic Clustering
 
+**Focus:**
+ Machine Learning, Healthcare Analytics, Demographic Analysis, Clustering, Responsible AI
+
+**Technologies:**
+Python, Pandas, Scikit-learn, K-Means, Data Preprocessing
+
+
+**Description:**
+Exploration of demographic and public-health data related to Alzheimer's disease using machine learning techniques. The project examines data preprocessing, demographic clustering, model-selection considerations, and ethical challenges associated with using sensitive attributes in healthcare-oriented machine learning.
 
 ## Project Methodology
 
