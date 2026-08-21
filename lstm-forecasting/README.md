@@ -61,7 +61,7 @@ This process strengthened my understanding of how traditional tabular data prepa
 
 ---
 
-## 🏗️ Conceptual Workflow
+## Conceptual Workflow
 
 The overall machine learning process followed the general workflow shown below:
 
