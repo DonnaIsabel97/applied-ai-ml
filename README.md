@@ -77,6 +77,28 @@ Python, Pandas, Scikit-learn, K-Means, Data Preprocessing
 **Description:**
 Exploration of demographic and public-health data related to Alzheimer's disease using machine learning techniques. The project examines data preprocessing, demographic clustering, model-selection considerations, and ethical challenges associated with using sensitive attributes in healthcare-oriented machine learning.
 
+### Project 3 - Helios AI Models
+
+**Focus:**
+Financial Machine Learning, Fraud Detection, Credit Risk Assessment, Model Optimization, Probabilistic AI
+
+**Technologies:**
+Python, Scikit-learn, XGBoost, Bayesian Networks, Pandas, NumPy
+
+**Description:**
+Helios AI Models contains the machine learning models developed to power the broader Helios financial intelligence platform. The project focuses on two complementary financial AI systems: **FinGuard** and **FinSage**, each addressing a different aspect of financial risk analysis.
+
+**FinGuard** is a fraud-detection model designed to identify potentially fraudulent credit card transactions. It uses XGBoost for binary classification and includes preprocessing, model training, evaluation, hyperparameter optimization, and model persistence. Performance is analyzed using confusion matrices and ROC-AUC to evaluate the model's ability to distinguish fraudulent from legitimate transactions.
+
+**FinSage** focuses on credit-risk assessment using a Bayesian Network. Rather than relying exclusively on point predictions, the model uses probabilistic inference to represent relationships between financial variables and estimate credit-risk outcomes. The project includes an expert-designed Bayesian Network structure, feature preparation, discretization, probabilistic inference, evaluation, and model optimization.
+
+Together, FinGuard and FinSage form the initial AI layer of **Helios**, combining transaction-level fraud detection with probabilistic credit-risk analysis. These models are being developed separately from the application layer so they can be trained, evaluated, optimized, and validated independently before integration.
+
+The broader **Helios web application is currently under development**, with a frontend being built to provide an interface through which the models and their financial insights can eventually be accessed.
+
+The `helios-ai-models` directory contains the model implementations and documentation, while the separate Helios repository contains the ongoing development of the complete application.
+
+
 ## Project Methodology
 
 While each project has different requirements, I generally document the following stages:
