@@ -610,6 +610,18 @@ The project demonstrates:
 
 ---
 
+## Dataset
+
+FinGuard uses the Credit Card Fraud Detection dataset containing anonymized
+transactions made by European cardholders.
+
+Due to the size of the dataset, the raw CSV file is not included in this
+repository.
+
+**Dataset:** [Credit Card Fraud Detection — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+---
+
 ## Project Context
 
 FinGuard was originally developed through graduate-level work in advanced artificial intelligence and machine learning and is now part of the AI model development supporting **Helios**.
