@@ -161,4 +161,13 @@ More comprehensive technical documentation is also available in `PDF` format, of
 
 This repository serves both as a record of my applied AI/ML work and as a portfolio of my development in ml.
 
+
+## Author
+
+**Donna Carschmit**
+
+Computer Science · Artificial Intelligence & Machine Learning · Software Engineering
+
+[GitHub](https://github.com/DonnaIsabel97) · [LinkedIn](https://www.linkedin.com/in/donnacarschmit/)
+
 Projects may be revisited over time to improve documentation, compare additional apporaches, optimize implementations or apply techniques learned through continued AI/ML study.
