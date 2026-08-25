@@ -295,21 +295,11 @@ The models can ultimately be exposed through backend services that connect the A
 
 ---
 
-## Repository Structure
 
-```text
-helios-ai-models/
-│
-├── finguard/
-│   ├── data/
-│   ├── outputs/
-│   ├── src/
-│   └── README.md
-│
-├── finsage/
-│   ├── data/
-│   ├── outputs/
-│   ├── src/
-│   └── README.md
-│
-└── README.md
+## Author
+
+**Donna Carschmit**
+
+Computer Science · Artificial Intelligence & Machine Learning · Software Engineering
+
+[GitHub](https://github.com/DonnaIsabel97) · [LinkedIn](https://www.linkedin.com/in/donnacarschmit/)
