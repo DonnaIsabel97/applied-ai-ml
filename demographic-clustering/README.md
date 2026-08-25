@@ -408,3 +408,14 @@ Key areas of development included:
 The public repository focuses on high-level methodology, exploratory analysis, clustering results, machine learning concepts, and responsible AI considerations developed during the project.
 
 > Project Context: Graduate coursework project adapted for portfolio presentation.
+
+---
+
+
+## Author
+
+**Donna Carschmit**
+
+Computer Science · Artificial Intelligence & Machine Learning · Software Engineering
+
+[GitHub](https://github.com/DonnaIsabel97) · [LinkedIn](https://www.linkedin.com/in/donnacarschmit/)
