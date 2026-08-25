@@ -27,6 +27,17 @@ The primary objectives of the project were to:
 
 ---
 
+
+## Author
+
+**Donna Carschmit**
+
+Computer Science · Artificial Intelligence & Machine Learning · Software Engineering
+
+[GitHub](https://github.com/DonnaIsabel97) · [LinkedIn](https://www.linkedin.com/in/donnacarschmit/)
+
+---
+
 ## Approach
 
 ### Model Selection
